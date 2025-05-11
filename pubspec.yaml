@@ -11,9 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  geolocator: ^13.0.3
+  geolocator: ^14.0.0
   geocoding: ^3.0.0
-  permission_handler: ^11.4.0
+  permission_handler: ^12.0.0+1
   core_utils:
     git:
       url: https://github.com/intalio-dev/core_utils_flutter.git
